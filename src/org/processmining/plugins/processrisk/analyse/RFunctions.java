@@ -129,7 +129,9 @@ public class RFunctions{
 		
 }
 
-	
+}
+
+///////////////////////////////////////PREV. VERSIONS----------------------------------------------------------------------
 /*
 	public String getRegression(InputParameters ip, Rengine re, String depVar, Vector<String> ExpVars, String filename) throws Exception
 {
@@ -265,7 +267,7 @@ else
 }
 */		 
 	
-}
+
 
 
 
